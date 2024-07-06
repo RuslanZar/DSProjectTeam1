@@ -11,5 +11,6 @@ Role 1: PM
 Role 2: Documentation
 Role 3: Contact Person
 
-Filled availability tracking list, contacted Patrick for the dataset, schedule first call
+Filled availability tracking list, contacted Patrick for the dataset, created GitHub Repository, connected VS to GitHub schedule first call
 
+to push files / data from VS code into repository: git add . (in Terminal)
