@@ -18,3 +18,35 @@ VS Code and GitHub:
 - the get most recent repository from github repository to personal computer: git pull  (in Terminal)
 - label changes: git commit --> open file to write a name for the change (e.g. change 1, etc.)  (in Terminal)
 - to update the most recent repository from personal computer into the github repository: git push  (in Terminal)
+
+
+
+10.07.2024 First meeting with Patrick
+Topic: Fairness 
+
+Data is always biased -> reason for this lies in the collection of data
+
+essential aspect we want to look at in our data.--> data that can be biased from the target group
+we are looking at loan data: features, target -> we want to focus our target
+
+ask ourselves: what is our target --> if someone at the end of the desk decides if youre getting a loan or not, despite any models output --> How fair is this? 
+
+in what terms of fairness?
+27 definitions of fairness in machine learning --> can be found in the paper as well
+we have to decide what we want to do to have a specific sort of fairness
+
+Patrick expects: no standard analysis of the data, what taks do we have (classifier task) --> what methods can we use for this
+how easy is this, is it fair?
+
+Patrick has no ideal goal for us, he wants to see our weekly progress 
+
+Patrick gives us all his knowledge and experience, we should present the problem as if the crowd would have identified the problem before us
+
+1. read paper
+2. choose method
+
+we can decide how far we want to go, we can add more and more value if we want to like e.g. app or web interface; main ingredient point should be choosing the right model and look at the fairness aspect
+
+set a weekly --> group proposes times to 
+
+
