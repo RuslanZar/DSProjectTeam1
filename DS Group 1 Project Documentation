@@ -60,3 +60,18 @@ approx. 3-4 hours a week of workload
 
 first part is more practitioner oriented, second part is rather theoretical, third part is combining the data modelling and the theory; we need to stretch it a little bit from the truth (?)
 
+
+Meeting with Patrick 16.07.2024
+•	What does the data offer –> broad analysis
+•	What is our target
+•	Is data balanced / inbalanced
+•	Then we discuss which method we use for reaching the data
+
+•	Choose a Classifier --> everyone should do this himself; in the end: is the score fair (we can do it in the meeting on Saturday?)
+•	When we reached a score with a model, is the score good, can we improve it  Pandas to use data crunching / processing
+•	Plot libraries to plot the data
+•	Derive a hypothesis
+
+
+
+
