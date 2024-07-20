@@ -73,5 +73,18 @@ Meeting with Patrick 16.07.2024
 •	Derive a hypothesis
 
 
-
+20.07.2024 First Hackathon
+1. cleaning of data
+  1.1 delete unnecessary data
+  1.2 decide what to do with missing values
+2. basic analysis (mean, median, etc.)
+  2.1 creation of boxplots for initial visualization
+3. modeling
+  3.1 choose 3 model types 
+  3.2 and compare them (classifiers)
+4. decide on a classifier
+  4.1 create synthetic data to test the models
+  4.2 compare results of the classifiers
+5. check fairness
+6. create project documentation / presentation
 
